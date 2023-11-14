@@ -1,0 +1,22 @@
+{
+  "name": "node_files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonOuellette/Node-File.git"
+  },
+  "author": "Jon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonOuellette/Node-File/issues"
+  },
+  "homepage": "https://github.com/JonOuellette/Node-File#readme",
+  "dependencies": {
+    "axios": "^1.6.1"
+  }
+}
